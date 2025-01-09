@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2727-number-of-senior-citizens) |
@@ -604,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |
