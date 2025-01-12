@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1923-sentence-similarity-iii](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2716-prime-subtraction-operation](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2716-prime-subtraction-operation) |
 ## Stack
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
