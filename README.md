@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1484-linked-list-in-binary-tree) |
@@ -470,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/Aadarsh45/https-github.com-Aadarsh45-leetcode-solution/tree/master/1484-linked-list-in-binary-tree) |
